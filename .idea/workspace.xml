@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd4cd96-cd86-445e-8534-2522c80abb96" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/components/ThumbZoom.vue" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/components/ThumbZoom.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/css/0.styles.2d7a0e0f.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.f554f863.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.0121f538.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/clients/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/clients/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/events-and-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/events-and-content/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/faq/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/faq/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/portals/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/portals/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/registration-forms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/registration-forms/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/tutorial-videos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/tutorial-videos/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/users/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/users/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/portals/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/portals/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/faq/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/faq/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -48,21 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="69">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/faq/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="368">
-                <caret line="16" selection-start-line="16" selection-end-line="16" />
+              <first_editor relative-caret-position="506">
+                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -209,13 +193,13 @@
         <option value="$PROJECT_DIR$/docs/registration-forms/README.md" />
         <option value="$PROJECT_DIR$/docs/events-and-content/README.md" />
         <option value="$PROJECT_DIR$/docs/reports/README.md" />
-        <option value="$PROJECT_DIR$/docs/faq/README.md" />
         <option value="$PROJECT_DIR$/docs/tutorial-videos/README.md" />
         <option value="$PROJECT_DIR$/docs/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/docs/.vuepress/components/ThumbZoom.vue" />
         <option value="$PROJECT_DIR$/docs/portals/README.md" />
         <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
+        <option value="$PROJECT_DIR$/docs/faq/README.md" />
       </list>
     </option>
   </component>
@@ -317,12 +301,12 @@
       <workItem from="1526314271935" duration="1833000" />
       <workItem from="1526316118491" duration="37347000" />
       <workItem from="1526479705680" duration="5349000" />
-      <workItem from="1526689200632" duration="12589000" />
+      <workItem from="1526689200632" duration="12892000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60692000" />
+    <option name="totallyTimeSpent" value="60995000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -543,17 +527,6 @@
       </provider>
       <provider editor-type-id="Gfm" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/faq/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="368">
-            <caret line="16" selection-start-line="16" selection-end-line="16" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="Gfm" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/reports/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -614,10 +587,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="69">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/faq/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="506">
+            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+      <provider editor-type-id="Gfm" />
     </entry>
   </component>
 </project>

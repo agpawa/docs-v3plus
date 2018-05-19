@@ -1,6 +1,7 @@
 let tailwindcss = require('tailwindcss');
 //let sidebar = require('./sidebar').sidebar;
 
+
 module.exports = {
     title: 'v3plus.com',
     description: 'General usage guide for the V3Plus admin UI.',
