@@ -200,7 +200,6 @@ for your portal. Otherwise, emails (like the user registration email), will not 
 ### Publishing the portal files
 
 More details to come....
-
 ### Publishing & Updating CSS
 
 More details to come....

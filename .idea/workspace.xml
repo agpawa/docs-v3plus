@@ -3,9 +3,28 @@
   <component name="ChangeListManager">
     <list default="true" id="dcd4cd96-cd86-445e-8534-2522c80abb96" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/1.0ddafa27.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.b927ff68.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/2.f9220c17.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/3.ec8dd570.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/4.1bcc0ebc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/5.fd78e81e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/6.a70ec1db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/7.19efe550.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/8.51687184.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/9.a567b2ec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.499c9f14.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/clients/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/clients/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/events-and-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/events-and-content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/faq/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/faq/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/portals/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/portals/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/registration-forms/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/registration-forms/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/reports/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/tutorial-videos/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/tutorial-videos/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/users/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/users/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/portals/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/portals/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -47,7 +66,7 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="621">
-              <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -69,8 +88,8 @@
         <entry file="file://$PROJECT_DIR$/docs/portals/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="243">
-                <caret line="181" column="28" selection-start-line="181" selection-start-column="28" selection-end-line="181" selection-end-column="28" />
+              <first_editor relative-caret-position="703">
+                <caret line="201" column="24" selection-start-line="201" selection-start-column="24" selection-end-line="201" selection-end-column="24" />
               </first_editor>
               <second_editor />
             </state>
@@ -313,12 +332,12 @@
       <workItem from="1526314271935" duration="1833000" />
       <workItem from="1526316118491" duration="37347000" />
       <workItem from="1526479705680" duration="5349000" />
-      <workItem from="1526689200632" duration="16730000" />
+      <workItem from="1526689200632" duration="17442000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64833000" />
+    <option name="totallyTimeSpent" value="65545000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -582,7 +601,7 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="621">
-          <caret line="27" column="27" lean-forward="true" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -607,8 +626,8 @@
     <entry file="file://$PROJECT_DIR$/docs/portals/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="243">
-            <caret line="181" column="28" selection-start-line="181" selection-start-column="28" selection-end-line="181" selection-end-column="28" />
+          <first_editor relative-caret-position="703">
+            <caret line="201" column="24" selection-start-line="201" selection-start-column="24" selection-end-line="201" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
