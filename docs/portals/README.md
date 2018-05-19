@@ -78,7 +78,7 @@ colors for specific buttons, etc.
 <img src="/images/template-config-html.png" class="shadow-md" />
 
 The HTML editor allow you to provide HTML that will be embedded in your portal. It supports basic text styling & formatting,
-inserting links, inserting images, inserting & editing tables. It also supports full HTML source code editing.
+inserting links, inserting images, inserting & editing tables. It also supports full HTML source code editing.[^1]
 
 ::: warning
 `<style>`, `<link>` are `<script>` tags are not allowed here. Inline JavaScript is also not allowed.
@@ -168,3 +168,8 @@ More details to come....
 ### Publishing & Updating CSS
 
 More details to come....
+
+### Footnotes
+
+[^1]: When editing raw HTML, the editor does its best to maintain the full HTML source provided. However, 
+sometimes the editor will add or modify markup to conform to it's own built-in rules.

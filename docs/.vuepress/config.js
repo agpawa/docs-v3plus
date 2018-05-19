@@ -6,6 +6,8 @@ module.exports = {
     description: 'General usage guide for the V3Plus admin UI.',
     head: [],
     themeConfig: {
+        lastUpdated: "Last Updated",
+        sidebarDepth: 2,
         navbar: false,
         sidebar: [
             '/',
