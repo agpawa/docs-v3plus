@@ -159,7 +159,43 @@ More details to come....
 
 ### DNS Publishing
 
-More details to come....
+**Fully Qualified Domain Name**  
+*e.g. mydomain.com*  
+
+To publish a FQDN, your domain name needs to point to the V3Plus NameServers. You will need to edit your name servers
+to point to the following:
+
+- ns-1697.awsdns-20.co.uk  
+- ns-1043.awsdns-02.org  
+- ns-353.awsdns-44.com  
+- ns-954.awsdns-55.net  
+
+**Sub Domain**  
+*e.g. webcast.mydomain.com*
+
+To publish a sub-domain, you will need to create a DNS CNAME Record that point to the V3Plus network.  
+
+| Name | TYPE | VALUE | TTL |
+|:---|:---|:---|:---|
+webcast.mydomain.com | CNAME | portals.v3plusportal.com|600
+
+**Mail DNS (sub-domains only)** 
+
+
+There are also additional mail records that need to be added to your DNS record in order for you to be able to send
+and receive emails.
+
+::: tip
+Mail DNS publishing Only applies to sub-domains. If you are publishing a FQDN, all the DNS stuff is handled automatically.
+:::
+
+
+
+::: warning CAUTION
+Once your DNS is published, [contact ICVDM](http://www.icvdm.com/contact.php) in order to finalize the email DNS setup 
+for your portal. Otherwise, emails (like the user registration email), will not be able to be sent from the portal.
+:::
+
 
 ### Publishing the portal files
 
@@ -173,3 +209,4 @@ More details to come....
 
 [^1]: When editing raw HTML, the editor does its best to maintain the full HTML source provided. However, 
 sometimes the editor will add or modify markup to conform to it's own built-in rules.
+
