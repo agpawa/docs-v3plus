@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dcd4cd96-cd86-445e-8534-2522c80abb96" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/.vuepress/config.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/faq/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/faq/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,21 +32,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="config.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="config.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="299">
+              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/faq/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="506">
-                <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+                <caret line="22" selection-start-line="22" selection-end-line="22" />
               </first_editor>
               <second_editor />
             </state>
@@ -198,8 +198,8 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/docs/.vuepress/components/ThumbZoom.vue" />
         <option value="$PROJECT_DIR$/docs/portals/README.md" />
-        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
         <option value="$PROJECT_DIR$/docs/faq/README.md" />
+        <option value="$PROJECT_DIR$/docs/.vuepress/config.js" />
       </list>
     </option>
   </component>
@@ -246,6 +246,19 @@
               <item name="docs.v3plus" type="b2602c69:ProjectViewProjectNode" />
               <item name="docs.v3plus" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="docs" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="docs.v3plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs.v3plus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="docs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".vuepress" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="docs.v3plus" type="b2602c69:ProjectViewProjectNode" />
+              <item name="docs.v3plus" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="docs" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".vuepress" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -301,19 +314,19 @@
       <workItem from="1526314271935" duration="1833000" />
       <workItem from="1526316118491" duration="37347000" />
       <workItem from="1526479705680" duration="5349000" />
-      <workItem from="1526689200632" duration="12892000" />
+      <workItem from="1526689200632" duration="13828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60995000" />
+    <option name="totallyTimeSpent" value="61931000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="GfmBrowser" order="6" />
-      <window_info content_ui="combo" x="1921" y="31" width="539" height="1018" id="Project" order="1" sideWeight="0.71301246" type="WINDOWED" visible="true" weight="0.18176973" />
+      <window_info active="true" content_ui="combo" x="1921" y="31" width="539" height="1018" id="Project" order="1" sideWeight="0.71301246" type="WINDOWED" visible="true" weight="0.18176973" />
       <window_info anchor="bottom" id="TODO" order="8" weight="0.32896176" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5053305" side_tool="true" weight="0.48764768" />
       <window_info anchor="right" x="-1920" y="23" width="1920" height="1027" id="Database" order="5" weight="0.32995737" />
@@ -321,7 +334,7 @@
       <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.4946695" weight="0.15682063" />
       <window_info anchor="bottom" x="2462" y="31" width="1377" height="488" id="Run" order="3" type="WINDOWED" weight="0.36949515" />
       <window_info x="1986" y="266" width="523" height="544" id="Structure" order="0" sideWeight="0.2869875" side_tool="true" type="FLOATING" weight="0.20373334" />
-      <window_info active="true" anchor="bottom" x="2462" y="551" width="1377" height="488" id="Terminal" order="6" sideWeight="0.4978678" type="WINDOWED" visible="true" weight="0.6349727" />
+      <window_info anchor="bottom" x="2462" y="551" width="1377" height="488" id="Terminal" order="6" sideWeight="0.4978678" type="WINDOWED" visible="true" weight="0.6349727" />
       <window_info id="Favorites" order="2" sideWeight="0.49046794" side_tool="true" weight="0.15458423" />
       <window_info anchor="bottom" id="Debug" order="4" weight="0.32008594" />
       <window_info anchor="bottom" id="Thumbnails" order="18" weight="0.32896176" />
@@ -585,23 +598,23 @@
       </provider>
       <provider editor-type-id="Gfm" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docs/faq/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="506">
-            <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <caret line="22" selection-start-line="22" selection-end-line="22" />
           </first_editor>
           <second_editor />
         </state>
       </provider>
       <provider editor-type-id="Gfm" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/.vuepress/config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

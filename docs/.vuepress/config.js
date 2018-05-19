@@ -8,6 +8,10 @@ module.exports = {
     head: [],
     themeConfig: {
         lastUpdated: "Last Updated",
+        repo: 'ICVDM/docs-v3plus',
+        docsDir: 'docs',
+        editLinks: true,
+        editLinkText: 'Help improve this page!',
         sidebarDepth: 2,
         navbar: false,
         sidebar: [
