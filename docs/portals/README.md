@@ -24,7 +24,7 @@ On the "Info" tab, supply the requested information.
 
 Now that you have provided the basic portal information, you can move between the other tabs.
 
-## Social
+## Social Media Sharing
 
 More details to come....
 
@@ -159,10 +159,10 @@ More details to come....
 
 ### DNS Publishing
 
-**Fully Qualified Domain Name**  
+**Top Level Domain Name**  
 *e.g. mydomain.com*  
 
-To publish a FQDN, your domain name needs to point to the V3Plus NameServers. You will need to edit your name servers
+To publish a TLD, your domain name needs to point to the V3Plus NameServers. You will need to edit your name servers
 to point to the following:
 
 - ns-1697.awsdns-20.co.uk  
@@ -186,7 +186,8 @@ There are also additional mail records that need to be added to your DNS record 
 and receive emails.
 
 ::: tip
-Mail DNS publishing Only applies to sub-domains. If you are publishing a FQDN, all the DNS stuff is handled automatically.
+Mail DNS publishing Only applies to sub-domains. If you are publishing a TLD (*e.g. mydomain.com*), 
+all the DNS stuff is handled automatically.
 :::
 
 

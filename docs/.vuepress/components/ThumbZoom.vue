@@ -1,6 +1,7 @@
 <template>
     <div>
         <img :src="src" class="thumb shadow-md" :style="thumbStyle"  @click="showLarge=true"/>
+        <div class="note">{{note}}</div>
         <div class="fixed pin z-50 overflow-auto bg-smoke-light flex" v-if="showLarge" @click="showLarge=false">
             <img :src="src" class="relative bg-white max-w-md max-h-md m-auto flex-col flex shadow-md" @click="showLarge=false"/>
         </div>
@@ -27,6 +28,10 @@
                 type: [String,Number],
                 default: 'auto',
             },
+            note: {
+                type: String,
+                default: "Click to enlarge"
+            }
         },
         computed: {
             thumbStyle() {
@@ -44,6 +49,13 @@
 <style scoped>
     .thumb {
         cursor: zoom-in;
+    }
+    .note {
+        margin-top: 4px;
+        margin-bottom: 6px;
+        color: #999;
+        font-size: .8em;
+        font-style: oblique;
     }
 
 </style>
