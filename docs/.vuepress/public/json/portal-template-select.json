@@ -1,0 +1,14 @@
+{
+  "slides": [
+    {
+      "img": "/images/v3-template-select01.png",
+      "description":
+        "The \"Template Selection\" tab will allow you to sort the available templates, \"View Details\" for any template, and select/apply a template to a portal. You can also configure the portal navigation from this tab."
+    },
+    {
+      "img": "/images/v3-template-select02.png",
+      "description":
+        "Clicking on the \"View Details\" button for a template will bring up a modal window with a full HTML description of the template features, functionality and any other relavant details and/or tips for using the template."
+    }
+  ]
+}

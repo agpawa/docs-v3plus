@@ -1,0 +1,16 @@
+{
+  "slides": [
+    {
+      "img": "/images/v3-client-admin-admins01.png",
+      "description": "The \"Administrators\" tab will allow you to manage administrators for a given client."
+    },
+    {
+      "img": "/images/v3-client-admin-admins02.png",
+      "description": "Clicking on the \"Add Administrator\" button will prompt you to enter the name, email and password for the new administrator user you are creating."
+    },
+    {
+      "img": "/images/v3-client-admin-admins03.png",
+      "description": "Once submitted, the \"Full Admin\" administrative user will be created, and visible in the \"Administrators\" list."
+    }
+  ]
+}

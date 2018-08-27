@@ -1,6 +1,4 @@
-require('../../tailwind')
-require('./sass/index.scss')
+require("./sass/index.scss");
 
-export default ({}) => {
 
-}
+export default ({ Vue }) => {};

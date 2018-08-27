@@ -1,0 +1,12 @@
+{
+  "slides": [
+    {
+      "img": "/images/v3-client-admin-info.png",
+      "description": "Description goes here"
+    },
+    {
+        "img": "/images/v3-client-admin-admins01.png",
+        "description": "Description goes here"
+    }
+  ]
+}

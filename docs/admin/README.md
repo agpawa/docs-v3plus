@@ -9,21 +9,21 @@ Every event is different, so this documentation attempts to break down the conce
 and a typical workflow.
 
 ## Main workflow
-[Managing Clients](/clients/)  
+[Managing Clients](/admin/clients/)  
 
-[Portal Management](/portals/)  
+[Portal Management](/admin/portals/)  
 
-[Events & Content](/events-and-content/)  
+[Events & Content](/admin/events-and-content/)  
 
-[Managing Users](/users/)  
+[Managing Users](/admin/users/)  
 
-[Registration Forms](/registration-forms/)  
+[Registration Forms](/admin/registration-forms/)  
 
-[Reports](/reports/)  
+[Reports](/admin/reports/)  
 
 ## Additional Help
 
-[FAQ](/faq/)  
+[FAQ](/admin/faq/)  
 
-[Video Tutorials](/tutorial-videos/)
+[Video Tutorials](/admin/tutorial-videos/)
 

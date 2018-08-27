@@ -33,7 +33,13 @@ More details to come....
 While still in the portal edit UI, click the `Template Selection` tab to view the different templates, choose a 
 template to apply to your portal and configure the portal navigation.  
 
-<ThumbZoom src="/images/portals-select-template.png" width="300px"></ThumbZoom>
+
+  <ScreenSlideShow 
+      config="/json/portal-template-select.json"
+      thumb="/images/v3-template-select01.png"
+      width="500px">
+  </ScreenSlideShow>
+
 
 - Filter templates by event type (Conference, Townhall, Bootcamp)
 - Select a template suitable to your need
@@ -80,8 +86,9 @@ colors for specific buttons, etc.
 The HTML editor allow you to provide HTML that will be embedded in your portal. It supports basic text styling & formatting,
 inserting links, inserting images, inserting & editing tables. It also supports full HTML source code editing.[^1]
 
-::: warning
-`<style>`, `<link>` are `<script>` tags are not allowed here. Inline JavaScript is also not allowed.
+::: warning  
+
+Tags, such as `<link>` are `<script>` allowed here. Inline JavaScript is also not allowed.  
 :::
 
 #### Color Picker
@@ -146,7 +153,7 @@ template to display the following data for each presenter:
 #### Text and Numeric Input
 
 <img src="/images/template-config-text.png" class="shadow-md" />  
-<br />  
+<br /><br />  
 <img src="/images/template-config-number.png" class="shadow-md" />
 
 Simple text and numeric inputs are used anywhere the template needs this basic information type. Numeric inputs are
@@ -159,7 +166,7 @@ More details to come....
 
 ### DNS Publishing
 
-**Top Level Domain Name**  
+#### Top Level Domain Name
 *e.g. mydomain.com*  
 
 To publish a TLD, your domain name needs to point to the V3Plus NameServers. You will need to edit your name servers
@@ -170,7 +177,7 @@ to point to the following:
 - ns-353.awsdns-44.com  
 - ns-954.awsdns-55.net  
 
-**Sub Domain**  
+#### Sub Domain  
 *e.g. webcast.mydomain.com*
 
 To publish a sub-domain, you will need to create a DNS CNAME Record that point to the V3Plus network.  
@@ -179,7 +186,7 @@ To publish a sub-domain, you will need to create a DNS CNAME Record that point t
 |:---|:---|:---|:---|
 webcast.mydomain.com | CNAME | portals.v3plusportal.com|600
 
-**Mail DNS (sub-domains only)** 
+#### Mail DNS (sub-domains only)
 
 
 There are also additional mail records that need to be added to your DNS record in order for you to be able to send

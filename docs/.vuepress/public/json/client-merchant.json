@@ -1,0 +1,38 @@
+{
+  "slides": [
+    {
+      "img": "/images/v3-merchant000.png",
+      "description":
+        "The client list view will show the client name, contact name, contact email, and merchant account status"
+    },
+    {
+      "img": "/images/v3-merchant001.png",
+      "description":
+        "If a client has setup and connected their Stripe account, their \"Merchant\" tab in the admin will indicate as much, and display their Stripe account ID for reference."
+    },
+    {
+      "img": "/images/v3-merchant002.png",
+      "description":
+        "If a client has not yet setup and connected a Stripe account, their \"Merchant\" tab will indicate that, and provide a link that can be used to setup their account."
+    },
+    {
+      "img": "/images/v3-merchant003.png",
+      "description":
+        "The account setup process is extremely simple. They provide a mobile phone and email address."
+    },
+    {
+      "img": "/images/v3-merchant004.png",
+      "description": "They verify their mobile number."
+    },
+    {
+      "img": "/images/v3-merchant005.png",
+      "description":
+        "Provide basic info (name, business name). \n Provide Bank or Debit Card info (so they can get paid)"
+    },
+    {
+      "img": "/images/v3-merchant006.png",
+      "description":
+        "Once they complete that workflow, they will notified of a successful integration. At this point the clients account is setup and connected to V3Plus."
+    }
+  ]
+}

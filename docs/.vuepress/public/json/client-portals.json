@@ -1,0 +1,19 @@
+{
+  "slides": [
+    {
+      "img": "/images/v3-client-admin-portals01.png",
+      "description":
+        "The \"Portals\" tab will allow you to manage basic details of the portals for a given client."
+    },
+    {
+      "img": "/images/v3-client-admin-portals02.png",
+      "description":
+        "Clicking on the \"Add Portal\" button will prompt you to enter the name, domain name and description for the new portal you are creating."
+    },
+    {
+      "img": "/images/v3-client-admin-portals03.png",
+      "description":
+        "Once submitted, the portal will be created, and visible in the \"Portals\" list."
+    }
+  ]
+}

@@ -2,9 +2,25 @@
 @tailwind components;
 
 p {
-  margin-top: 10px;
+  margin-top: 6px;
   margin-bottom: 10px;
 }
 
+h4 {
+  margin-bottom: 10px;
+}
+
+blockquote {
+  font-size: 1em;
+  color: #666;
+}
+
+.theme-container > .page > .content:not(.custom) {
+  max-width: 900px;
+}
+
+div[class*="language-http"]:before {
+    content: "http://";
+}
 
 @tailwind utilities;
