@@ -1,7 +1,6 @@
 let tailwindcss = require("tailwindcss");
 
 module.exports = {
-  base: "/docs-v3plus/",
   dest: "public",
   title: "V3Plus Docs",
   description: "General usage guide for the V3Plus admin UI.",
