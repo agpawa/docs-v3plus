@@ -550,12 +550,12 @@ GET /api/v1/conferences/1/affiliates HTTP/1.1
 
 **Filter sponsors from affiliate collection in conference**
 ```http
-GET /api/v1/conferences/1/affiliates?role=sponsor HTTP/1.1
+GET /api/v1/conferences/1/affiliates?filters[role]=sponsor HTTP/1.1
 ```
 
 **Filter sponsors from affiliate collection in townhall**
 ```http
-GET /api/v1/townhalls/1/affiliates?role=sponsor HTTP/1.1
+GET /api/v1/townhalls/1/affiliates?filters[role]=sponsor HTTP/1.1
 ```
 
 **Get single affiliate resource**
@@ -588,12 +588,12 @@ GET /api/v1/conferences/1/presenters HTTP/1.1
 
 **Filter keynotes from presenter collection in conference**
 ```http
-GET /api/v1/conferences/1/presenters?role=keynote HTTP/1.1
+GET /api/v1/conferences/1/presenters?filters[role]=keynote HTTP/1.1
 ```
 
 **Filter cochairs from presenter collection in conference**
 ```http
-GET /api/v1/conferences/1/presenters?role=cochair HTTP/1.1
+GET /api/v1/conferences/1/presenters?filters[role]=cochair HTTP/1.1
 ```
 
 **Get presenter collection in townhall**
