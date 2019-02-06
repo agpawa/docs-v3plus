@@ -451,6 +451,7 @@ GET /api/v1/presentation/1 HTTP/1.1
 - visible
 
 **Sub-resources**
+- slides
 - conferences
 - townhalls
 - presenters
