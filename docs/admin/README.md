@@ -11,11 +11,23 @@ title: Intro
 
 [Portal Management](/admin/portals/)  
 
-[Events & Content](/admin/events-and-content/)  
+[Affiliate Management](/admin/affiliates/)  
 
-[Managing Users](/admin/users/)  
+[Presenter Management](/admin/presenters/)  
 
-[Registration Forms](/admin/registration-forms/)  
+[License Group Management](/admin/groups/) 
+
+[User Management](/admin/users/)  
+
+[Email Management](/admin/email/)  
+
+[Events & Content Management](/admin/events-and-content/)  
+
+[Custom Page Management](/admin/custom-pagespages/)  
+
+[Registration Forms](/admin/registration-forms/)
+
+[Live Steam Management](/admin/streams/)  
 
 [Reports](/admin/reports/)  
 
