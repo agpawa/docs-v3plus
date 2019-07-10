@@ -571,6 +571,9 @@ GET /api/v1/affiliates/1 HTTP/1.1
 - contact_name
 - contact_email
 - contact_phone
+- contact_title
+- contact_address
+- contact_location
 - website
 - photo
 - role *(sponsor, exhibitor)*
