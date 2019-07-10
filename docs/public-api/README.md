@@ -573,7 +573,7 @@ GET /api/v1/affiliates/1 HTTP/1.1
 - contact_phone
 - website
 - photo
-- role *(presenter, keynote, cochair)*
+- role *(sponsor, exhibitor)*
 	- **Note:** `role` property is only available if retrieving affiliates in the context of a conference, townhall or presentation.
 
 **Sub-resources**
