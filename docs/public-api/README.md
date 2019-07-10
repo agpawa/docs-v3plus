@@ -626,7 +626,7 @@ GET /api/v1/presenters/1 HTTP/1.1
 - biography
 - website
 - photo
-- role *(sponsor, exhibitor)* 
+- role *(presenter)* 
 	- **Note:** `role` property is only available if retrieving presenters in the context of a conference, townhall or presentation.
 
 **Sub-resources**
